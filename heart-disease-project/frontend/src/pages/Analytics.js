@@ -1,0 +1,12 @@
+import React from 'react';
+
+const Analytics = () => {
+  return (
+    <div className="container" style={{padding: '40px 20px'}}>
+      <h1>Analytics</h1>
+      <p>This page is under construction. Full implementation available in the complete project.</p>
+    </div>
+  );
+};
+
+export default Analytics;
